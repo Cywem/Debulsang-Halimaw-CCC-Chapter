@@ -118,7 +118,7 @@ pytest tests/
 
 ## License
 
-Educational project - Created for CCC Chapter
+Educational project - Created for Final Requirement of Operating System
 
 ## Version
 
