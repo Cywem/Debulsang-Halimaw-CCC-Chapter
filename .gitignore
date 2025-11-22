@@ -48,9 +48,3 @@ htmlcov/
 tempCodeRunnerFile.py
 *.tmp
 *.log
-
-# Large files (use external hosting)
-*.mp4
-*.avi
-*.mov
-Manuscript.pdf
